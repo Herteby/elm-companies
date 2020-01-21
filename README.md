@@ -120,7 +120,9 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   iZettle is a one-stop shop for cutting-edge commerce tools — offering
   everything you need to take quick payments, ease day-to-day management,
   and get the funding to grow.
-
+* [FörsäkringsGirot](https://www.fgirot.se/) - 
+  FörsäkringsGirot is a Swedish company that helps major companies manage their
+  employee pensions, and ensures everyone gets paid correctly.
 
 #### Healthcare
 
